@@ -1,12 +1,12 @@
 <?php
 
 $lang = [
-    'cs_title' => 'Statistics settings',
-    'cs_sub_title' => 'Change here any setting related to the server statistics.',
-    'cs_general' => 'General',
-    'cs_point_per_resources_used' => 'One point equals (resources)',
-    'cs_time_between_updates' => 'Time between updates (minutes)',
-    'cs_access_lvl' => 'Until which rank can be shown in the rank page?',
-    'cs_save_changes' => 'Save changes',
-    'cs_all_ok_message' => 'Changes saved successfully!',
+    'cs_title' => 'Statistik-Einstellungen',
+    'cs_sub_title' => 'Ändere hier alle Einstellungen bezüglich der Server-Statistiken.',
+    'cs_general' => 'Allgemein',
+    'cs_point_per_resources_used' => 'Ein Punkt entspricht (Rohstoffe)',
+    'cs_time_between_updates' => 'Zeit zwischen Updates (Minuten)',
+    'cs_access_lvl' => 'Bis zu welchem Rang kann auf der Rangliste angezeigt werden?',
+    'cs_save_changes' => 'Änderungen speichern',
+    'cs_all_ok_message' => 'Änderungen erfolgreich gespeichert!',
 ];

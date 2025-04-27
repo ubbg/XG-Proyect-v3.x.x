@@ -1,12 +1,12 @@
 <?php
 
 $lang = [
-    'le_edit' => 'Languages edition',
-    'le_notice' => 'Here you can modify the languages files, HTML is allowed. Use with caution.',
-    'le_file' => 'Select language file',
-    'le_warning' => 'Making a wrong change in any language file may cause your server to stop working, modify it only if you know what you are doing.',
-    'le_sure' => 'Are you sure you want to continue?',
-    'le_save_changes' => 'Save changes',
-    'le_all_ok_message' => 'Changes saved successfully!',
-    'le_all_error_reading' => 'Couldn\'t read the language file, verify its permissions!',
+    'le_edit' => 'Sprachen bearbeiten',
+    'le_notice' => 'Hier kannst du die Sprachdateien bearbeiten, HTML ist erlaubt. Mit Vorsicht verwenden.',
+    'le_file' => 'Sprachdatei auswählen',
+    'le_warning' => 'Eine falsche Änderung in einer Sprachdatei kann dazu führen, dass dein Server nicht mehr funktioniert. Bearbeite sie nur, wenn du weißt, was du tust.',
+    'le_sure' => 'Bist du sicher, dass du fortfahren möchtest?',
+    'le_save_changes' => 'Änderungen speichern',
+    'le_all_ok_message' => 'Änderungen erfolgreich gespeichert!',
+    'le_all_error_reading' => 'Sprachdatei konnte nicht gelesen werden, überprüfe die Berechtigungen!',
 ];

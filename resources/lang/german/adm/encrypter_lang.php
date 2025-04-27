@@ -1,10 +1,10 @@
 <?php
 
 $lang = [
-    'et_title' => 'Password encrypter (Bcrypt)',
-    'et_sub_title' => 'Here you can quickly encrypt a password using the default encryption system provided by XGP.',
-    'et_general' => 'General',
-    'et_pass' => 'Password',
-    'et_result' => 'Result',
-    'et_encript' => 'Encrypt',
+    'et_title' => 'Passwort-Verschlüsselung (Bcrypt)',
+    'et_sub_title' => 'Hier kannst du schnell ein Passwort mit dem Standard-Verschlüsselungssystem von XGP verschlüsseln.',
+    'et_general' => 'Allgemein',
+    'et_pass' => 'Passwort',
+    'et_result' => 'Ergebnis',
+    'et_encript' => 'Verschlüsseln',
 ];

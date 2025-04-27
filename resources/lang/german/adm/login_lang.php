@@ -1,9 +1,9 @@
 <?php
 
 $lang = [
-    'lg_welcome_back' => 'Welcome Back!',
-    'lg_enter_email_address' => 'Enter Email Address...',
-    'lg_password' => 'Password',
-    'lg_login' => 'Login',
-    'lg_error_wrong_data' => 'The email address or password are invalid.',
+    'lg_welcome_back' => 'Willkommen zurück!',
+    'lg_enter_email_address' => 'E-Mail-Adresse eingeben...',
+    'lg_password' => 'Passwort',
+    'lg_login' => 'Anmelden',
+    'lg_error_wrong_data' => 'Die E-Mail-Adresse oder das Passwort sind ungültig.',
 ];

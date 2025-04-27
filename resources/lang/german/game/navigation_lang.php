@@ -1,7 +1,7 @@
 <?php
 
 $lang = [
-    'tn_vacation_mode' => 'Vacation mode active until ',
-    'tn_vacation_mode_active' => 'Vacation mode active',
-    'tn_delete_mode' => 'Your account was set for deletion. Deletion date: ',
+    'tn_vacation_mode' => 'Urlaubsmodus aktiv bis ',
+    'tn_vacation_mode_active' => 'Urlaubsmodus aktiv',
+    'tn_delete_mode' => 'Dein Account wurde zur Löschung markiert. Löschdatum: ',
 ];

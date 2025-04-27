@@ -1,7 +1,7 @@
 <?php
 
 $lang = [
-    'dep_report_title' => 'Fleet deployment', // ok
-    'dep_report_deployed' => 'One of your fleets from %s %s has reached %s %s. The fleet is delivering %s Metal, %s Crystal and %s Deuterium.', // ok
-    'dep_report_back' => 'One of your fleets from %s %s has reached %s %s. The fleet isn\'t delivering goods.', // ok
+    'dep_report_title' => 'Flottenstationierung', // ok (Fleet deployment/stationing)
+    'dep_report_deployed' => 'Eine deiner Flotten von %s %s hat %s %s erreicht. Die Flotte liefert %s Metall, %s Kristall und %s Deuterium.', // ok
+    'dep_report_back' => 'Eine deiner Flotten von %s %s hat %s %s erreicht. Die Flotte liefert keine Rohstoffe.', // ok (This seems like a return message, but labeled 'back' in the key, translated as reaching without goods)
 ];

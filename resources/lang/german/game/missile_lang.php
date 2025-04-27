@@ -1,12 +1,12 @@
 <?php
 
 $lang = [
-    'mis_attack' => 'Missile Attack', // ok
-    'mis_all_destroyed' => 'All Attacking rockets have been destroyed by anty-ballistic missiles.',
-    'mis_planet_without_defenses' => 'Planet without defenses',
-    'mis_some_destroyed' => ' Attacking rocket(s) was/were destroyed by enemy anty-ballistic missiles.', // ok
-    'mis_result_own_single' => 'A rocket from your planet %2% smashed into the planet %3%!<br>', // ok
-    'mis_result_own' => '%1% rockets from your planet %2% smashed into the planet %3%!<br>', // ok
-    'mis_result_single' => 'A rocket from planet %2% smashed into your planet %3%!<br>',
-    'mis_result' => '%1% rockets from planet %2% smashed into your planet %3%!<br>',
+    'mis_attack' => 'Raketenangriff', // ok
+    'mis_all_destroyed' => 'Alle angreifenden Raketen wurden von Abfangraketen zerstört.', // Note: Original has typo 'anty-ballistic'
+    'mis_planet_without_defenses' => 'Planet ohne Verteidigung',
+    'mis_some_destroyed' => ' Angreifende Rakete(n) wurde(n) von feindlichen Abfangraketen zerstört.', // ok - Note: Original has typo 'anty-ballistic' and leading space
+    'mis_result_own_single' => 'Eine Rakete von deinem Planeten %2% schlug auf dem Planeten %3% ein!<br>', // ok
+    'mis_result_own' => '%1% Raketen von deinem Planeten %2% schlugen auf dem Planeten %3% ein!<br>', // ok
+    'mis_result_single' => 'Eine Rakete von Planet %2% schlug auf deinem Planeten %3% ein!<br>',
+    'mis_result' => '%1% Raketen von Planet %2% schlugen auf deinem Planeten %3% ein!<br>',
 ];

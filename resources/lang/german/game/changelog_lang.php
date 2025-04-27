@@ -2,5 +2,5 @@
 
 $lang = [
     'ch_version' => 'Version',
-    'ch_description' => 'Description',
+    'ch_description' => 'Beschreibung',
 ];
